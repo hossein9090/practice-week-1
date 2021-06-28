@@ -1,0 +1,7 @@
+x = int(input("Enter Your Password : "))
+
+if x==1234 :
+    print("you have successful log in")
+else :
+    print ("you haven't successful log in")
+
