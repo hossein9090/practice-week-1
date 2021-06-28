@@ -1,0 +1,14 @@
+
+def mm ():
+
+    c = float(input("dama ra be selsios vared kon : "))
+    return   (9.5 * c) + 32
+    
+
+
+
+
+
+print("dama mishe : ",mm())
+
+
