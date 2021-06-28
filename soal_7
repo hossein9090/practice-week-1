@@ -1,0 +1,18 @@
+def bakhshpaziri ():
+    x = int(input("adad aval ra vared kon : "))
+    y = int(input("adad dovom ra vared kon : "))
+    
+    if y==0:
+        print("adad dovom nabayad 0 bashad")
+    elif x>=y :
+        c= x%y
+        if c==0 :
+            print("True")
+        else:
+            print("False")
+    else:
+        print("False")
+
+bakhshpaziri()
+
+  
