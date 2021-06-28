@@ -1,0 +1,15 @@
+import math
+
+
+
+def area ():
+
+    n=int(input("adad bede : "))
+    return math.pow((math.pow(n,4))*math.pi,5)
+
+
+    
+
+
+print (area())
+
