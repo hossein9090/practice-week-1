@@ -1,0 +1,36 @@
+#behtarin rah:
+
+n = int(input(" adade se raghami bede : " ))
+
+
+if n >= 100 and n <= 999:
+    yekan = n %10 
+    dahgan = (n //10)% 10
+    sadgan = n // 100
+
+    a=yekan*100
+    b=dahgan*10
+    c=sadgan
+
+    result = a+b+c
+
+    print(result)
+
+else:
+    print("voroodi sahih nist")
+
+
+
+
+
+
+-------------# raveshe digar :------------------
+
+
+
+# x = str(input("adade se raghami vared konid : "))
+
+# x=x[::-1]
+
+# print(x)
+
