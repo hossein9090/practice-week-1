@@ -1,0 +1,19 @@
+def floatkon (x):
+    return int(x)
+
+x=float(input("adad ashari bede : "))
+
+floatkon(x)
+print("ghesmate sahih mishe : ",floatkon(x))
+
+
+
+#------------------------------------------
+
+
+#x = float(input("adad ashari ra vared kon : "))
+
+#y = int(x)
+
+#print("ghesmate sahihe adad  : ",y)
+
