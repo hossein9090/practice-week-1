@@ -1,0 +1,20 @@
+r = 5.3
+
+x = (4/3)*3.14*(r**2)
+
+print("volume of the sphere is : ",x)
+
+
+
+# -----------------------------------------
+
+
+#def tabe (r):
+#   return (4/3)*3.14*(r**2)
+
+
+#r=float(input("adad bede : "))
+
+#tabe(r)
+#print("volume of the spere is : ",tabe(r))
+
